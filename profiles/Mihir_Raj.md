@@ -1,25 +1,34 @@
 # Mihir Raj
 
-## About Me
-Hello! I'm Mihir Raj, a passionate software developer currently working at Hughes Systique Corporation. I have experience in backend development using **C++** and **Java**, and I enjoy working on software logic, troubleshooting, and optimizing user interfaces and experiences. Additionally, I have knowledge in **Python**, which I use for scripting and automating tasks.
+### Location
 
-## My Skills
-- **Languages**: C++, Java, Python
-- **Tools**: Git, Linux, PowerShell
-- **Other Skills**: Software design, debugging, automation
+India
 
-## Hacktoberfest Goals
-I’m participating in Hacktoberfest 2024 to contribute to open-source projects and improve my skills in:
-- **Open-Source Contribution**
-- Collaborating with the developer community
-- Learning new technologies and frameworks
+### Academics
 
-## Current Projects
-- **Open-RAN E2 Interface**: Developing and maintaining software solutions for network optimization.
-- **Website Ideas**: Currently brainstorming and working on concepts for web development projects.
+B.Tech in Computer Science and Engineering
 
-## Connect with Me
-- **GitHub**: [github.com/MihirRaj](https://github.com/mihirrz)
-- **LinkedIn**: [linkedin.com/in/mihir-raj](https://www.linkedin.com/in/mihir-raj-7a1803208/)
+### Interests
 
-Looking forward to learning and contributing more to the open-source world!
+- Software Development
+- Open Source Contribution
+- Backend Development
+- Learning new technologies
+
+### Development
+
+- Contributor to Open-RAN E2 interface
+
+### Projects
+
+- [Open-RAN Project](https://github.com/mihirrz) - Worked on the Open-RAN E2 interface from scratch, including documentation, coding, and troubleshooting.
+- [Hacktoberfest Contribution](https://github.com/mihirrz) - Participating in Hacktoberfest 2024 with contributions to open-source projects.
+- [ecommerce](https://github.com/mihirrz/ecommerce) - A public e-commerce application developed using JavaScript.
+- [volume-control-handtracking](https://github.com/mihirrz/volume-control-handtracking) - A public project using Python for hand tracking volume control.
+- [gallery_app](https://github.com/mihirrz/gallery_app) - A public gallery application developed using JavaScript.
+- [TextEditor](https://github.com/mihirrz/TextEditor) - A simple text editor developed using React.
+- [Remote_command_execution](https://github.com/mihirrz/Remote_command_execution) - C++ remote command execution system for executing commands remotely.
+
+### Profile Link
+
+[Mihir Raj](https://github.com/mihirrz)
